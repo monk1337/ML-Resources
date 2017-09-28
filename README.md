@@ -47,8 +47,6 @@ Collection of machine learning resources
 
 [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 
-[ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980v8.pdf)
-
 [TensorFlow: A system for large-scale machine learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 
 [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf)
@@ -56,8 +54,6 @@ Collection of machine learning resources
 [A Critical Review of Recurrent Neural Networks for Sequence Learning](https://arxiv.org/pdf/1506.00019v4.pdf)
 
 [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-
-[ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
 [Concrete Problems in AI Safety](https://arxiv.org/pdf/1606.06565.pdf)
 
@@ -68,6 +64,10 @@ Collection of machine learning resources
 [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
 
 #### Hyperparameter Tuning
+[ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980v8.pdf)
+
+[ADADELTA: AN ADAPTIVE LEARNING RATE METHOD](http://www.matthewzeiler.com/wp-content/uploads/2017/07/googleTR2012.pdf)
+
 [Practical Bayesian Optimization of Machine Learning Algorithms](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
 
 [Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
