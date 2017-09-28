@@ -8,12 +8,6 @@ Neural Teuring Machines
 ANNs as Compilers
 [paper](https://arxiv.org/abs/1410.4615)
 
-GANs
-[paper](https://arxiv.org/pdf/1406.2661v1.pdf)
-
-Improved GAN Training Techniques
-[paper](https://arxiv.org/abs/1606.03498)
-
 ### ImageNet Progress
 
 Review of Progress up to 2014
@@ -42,15 +36,49 @@ Inception Rethinking??
 
 ### Adversarial Models
 
-[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661v1)
+Generative Adversarial Networks
+[paper](https://arxiv.org/abs/1406.2661v1)
+[code](https://github.com/goodfeli/adversarial)
 
-[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)
+[Improved GAN Training Techniques](https://arxiv.org/abs/1606.03498)
 
 [Adversarially Learned Inference](https://arxiv.org/abs/1606.00704)
 
 [Adversarial Feature Learning](https://arxiv.org/abs/1605.09782)
 
 [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396v2)
+
+[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)
+
+[OpenAI Contributions](https://blog.openai.com/generative-models/)
+
+### Other Models
+
+[Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+
+[Discovering objects and their relations from entangled scene representations](https://arxiv.org/abs/1702.05068)
+
+[Fully-Convolutional Siamese Networks for Object Tracking](https://arxiv.org/abs/1606.09549)
+
+[Pixel Recurrent Neural Networks](https://arxiv.org/abs/1601.06759)
+
+[LONG SHORT-TERM MEMORY](http://www.bioinf.jku.at/publications/older/2604.pdf)
+
+### Translation
+
+Massive Exploration of Neural Machine Translation Architectures
+[paper](https://arxiv.org/abs/1703.03906)
+[code](https://github.com/google/seq2seq)
+[lecture](https://www.youtube.com/watch?v=G5RY_SUJih4)
+[tangeantal lecture](https://www.youtube.com/watch?v=RIR_-Xlbp7s)
+
+### Autoencoders
+
+[Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+
+### Learning Theory
+
+[A Probabilistic Theory of Deep Learning](https://arxiv.org/abs/1504.00641)
 
 
 ## Variations of Neural Nets
