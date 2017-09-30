@@ -42,6 +42,8 @@ Generative Adversarial Networks
 
 [Improved GAN Training Techniques](https://arxiv.org/abs/1606.03498)
 
+[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
+
 [Adversarially Learned Inference](https://arxiv.org/abs/1606.00704)
 
 [Adversarial Feature Learning](https://arxiv.org/abs/1605.09782)
