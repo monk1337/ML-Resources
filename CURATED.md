@@ -82,17 +82,6 @@ Massive Exploration of Neural Machine Translation Architectures
 
 [A Probabilistic Theory of Deep Learning](https://arxiv.org/abs/1504.00641)
 
-
-## Variations of Neural Nets
-
-* Autoencoders
-* LSTM
-* GANs
-* RNNs
-* DBNs
-* CRFs
-
-
 ## Courses
 
 Overview of neural network architectures
